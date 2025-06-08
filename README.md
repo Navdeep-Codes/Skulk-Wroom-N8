@@ -1,4 +1,4 @@
-# Skulk Wroom N8
+# Skulk™️ Wroom N8©️
 3x8cm ESP32 Wroom (32E N8) Dev board with a good pin layout and is cool!
 > Designed by **Navdeep** · Sponsered by **Highway** (A Hack Club Event) · Made to learn!
 ---
@@ -11,9 +11,8 @@
 - **Reset & Boot buttons** for manual flashing
 - **Power LED** and **User LED** (on GPIO2)
 - **Supports 5V VIN input** via USB-B or external header
-
 ---
 ## Pinout
 ### Pinout diagram coming soon as PDF and PNG.
-Made with 💖 and 🎶 by Navdeep — Skulk Labs 2025
-![Skulk](./Images/Skulk-Logo.png)
+Made with 💖 and 🎶 by Navdeep — Skulk™️
+<img src="./Images/Skulk-Logo.png" alt="Skulk" width="200"/>™️
