@@ -14,5 +14,10 @@
 ---
 ## Pinout
 ### Pinout diagram coming soon as PDF and PNG.
+---
+## 3D Render
+![3D Render](./Images/3D%20Render.png)
+## Costs and BOM
+The full order of 5 PCB's and 2 PCBa cost $83.23 including. The price of each board is around $41 including shipping
+> You can find the BOM is in CVS format [here](https://github.com/Navdeep-Codes/Skulk-Wroom-N8/blob/main/Files/PAP_Skulk-ESP32-Wroom-N8.csv)
 Made with 💖 and 🎶 by Navdeep — Skulk™️
-<img src="./Images/Skulk-Logo.png" alt="Skulk" width="200"/>™️
