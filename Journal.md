@@ -1,3 +1,10 @@
+---
+title: "Skulk Wroom N8"
+author: "Navdeep"
+description: "ESP32 Wroom (32E N8) Dev board with a good pin layout and is cool!"
+created_at: "2025-05-29"
+---
+# Total time spent: 26h
 # May 30th: Finally decided on the features.
 Ok so as I was making an ESP32 dev board so I am thinking of just having it as a plain one and only making it as a very small and a board with a good pin layout.
 **Total time spent: 1h**
@@ -42,3 +49,4 @@ So after my PCB final I started going crazy with happyness and then tried orderi
 ![Details](./JLCPCB/Details.png)
 ![Checkout](./JLCPCB/Checkout.png)
 and here i am writing my last journal before I submit this!!!
+**Total time spent: 8h**
