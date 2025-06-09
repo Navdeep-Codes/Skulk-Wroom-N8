@@ -14,8 +14,9 @@ I wanted to make this as my first dev board and learn routing skillls also I hav
 - **Power LED** and **User LED** (on GPIO2)
 - **Supports 5V VIN input** via USB-B or external header
 ---
-## Pinout
-### Pinout diagram coming soon as PDF and PNG.
+## Costs and BOM
+The full order of 5 PCB's and 2 PCBa cost $83.23 including. The price of each board is around $41 including shipping.
+> You can find the BOM in CVS format [here](https://github.com/Navdeep-Codes/Skulk-Wroom-N8/blob/main/Files/PAP_Skulk-ESP32-Wroom-N8.csv).
 ---
 # Pictures
 ## 3D Render
@@ -24,8 +25,8 @@ I wanted to make this as my first dev board and learn routing skillls also I hav
 ![PCB Image](./Images/Final%20PCB.png)
 ## Schematic
 You can find the schematic in PDF format [here](https://github.com/Navdeep-Codes/Skulk-Wroom-N8/blob/main/Files/SCH_Skulk-ESP32-Wroom-N8.pdf).
-## Costs and BOM
-The full order of 5 PCB's and 2 PCBa cost $83.23 including. The price of each board is around $41 including shipping.
-> You can find the BOM in CVS format [here](https://github.com/Navdeep-Codes/Skulk-Wroom-N8/blob/main/Files/PAP_Skulk-ESP32-Wroom-N8.csv).
+## Pinout
+### Pinout diagram coming soon as PDF and PNG.
 ---
-# Made with 💖 by Navdeep - Skulk
+# Made with 💖 by Navdeep - Skulk 
+<img src="./Images/Skulk-Logo.png" width="20" height="20">

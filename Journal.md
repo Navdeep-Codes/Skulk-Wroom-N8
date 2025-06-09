@@ -47,6 +47,11 @@ ahh update time so today is a mid day update and its about my pcb!!! so today in
 So after my PCB final I started going crazy with happyness and then tried ordering it manually to just figure out the price and It took a lil bit of time but then I settled on $83.23 including shipping. 
 ![BOM](./JLCPCB/BOM.png)
 ![Details](./JLCPCB/Details.png)
-![Checkout](./JLCPCB/Checkout.png)
 and here i am writing my last journal before I submit this!!!
 **Total time spent: 8h**
+# June 9th: Little tweaks
+I just submitted it on 8th and now I had to do some little tweaks to the PCB as I had 2 parts that were out of stock and now I have changes their placement and now I am waiting for apporoval on my project btw I need $86.33 now because I have different parts now.
+![Tweaked PCB](./Images/Finalized%20PCB.png)
+![Finalized 3D Render](./Images/Finalized%20Render.png)
+2nd update: I got rejected because I had a 4 layer PCB and now I have to change it to 2 layers and then re submit it.
+**Total time spent: 2h**
