@@ -15,8 +15,9 @@ I wanted to make this as my first dev board and learn routing skillls also I hav
 - **Supports 5V VIN input** via USB-B or external header
 ---
 ## Costs and BOM
-The full order of 5 PCB's and 2 PCBa cost $83.23 including. The price of each board is around $41 including shipping.
+The full order of 5 PCB's and 2 PCBa cost $77.63 including. The price of each board is around $38.815 including shipping.
 > You can find the BOM in CVS format [here](https://github.com/Navdeep-Codes/Skulk-Wroom-N8/blob/main/Files/PAP_Skulk-ESP32-Wroom-N8.csv).
+![JLCPCB Cost](./JLCPCB/Cart.png)
 ---
 # Pictures
 ## 3D Render

@@ -4,7 +4,7 @@ author: "Navdeep"
 description: "ESP32 Wroom (32E N8) Dev board with a good pin layout and is cool!"
 created_at: "2025-05-29"
 ---
-# Total time spent: 26h
+# Total time spent: 34h
 # May 30th: Finally decided on the features.
 Ok so as I was making an ESP32 dev board so I am thinking of just having it as a plain one and only making it as a very small and a board with a good pin layout.
 **Total time spent: 1h**
@@ -62,3 +62,6 @@ Ok so I had to redo the PCB layout to fit the 2 layer requirement and that took 
 and here is the final 3D render:
 ![3D Render Top](./Images/Final%20Render%20Top.png)
 ![3D Render Bottom](./Images/Final%20Render%20Bottom.png)
+now here is what JLCPCB is costing me:
+![JLCPCB Cost](./JLCPCB/Cart.png)
+**Total time spent: 8h**
