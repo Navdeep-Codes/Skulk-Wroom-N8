@@ -28,5 +28,4 @@ You can find the schematic in PDF format [here](https://github.com/Navdeep-Codes
 ## Pinout
 ### Pinout diagram coming soon as PDF and PNG.
 ---
-# Made with 💖 by Navdeep - Skulk 
-<img src="./Images/Skulk-Logo.png" width="20" height="20">
+# Made with 💖 by Navdeep - Skulk <img src="./Images/Skulk-Logo.png" width="20" height="20">
