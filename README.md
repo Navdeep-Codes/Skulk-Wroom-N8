@@ -20,9 +20,12 @@ The full order of 5 PCB's and 2 PCBa cost $83.23 including. The price of each bo
 ---
 # Pictures
 ## 3D Render
-![3D Render](./Images/3D%20Render.png)
+### Top
+![3D Render Top](./Images/3D%20Render%20Top.png)
+### Bottom
+![3D Render Bottom](./Images/3D%20Render%20Bottom.png)
 ## PCB Image
-![PCB Image](./Images/Final%20PCB.png)
+![PCB Image](./Images/Final%20PCB%20Redone.png)
 ## Schematic
 You can find the schematic in PDF format [here](https://github.com/Navdeep-Codes/Skulk-Wroom-N8/blob/main/Files/SCH_Skulk-ESP32-Wroom-N8.pdf).
 ## Pinout
