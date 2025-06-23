@@ -4,7 +4,7 @@ author: "Navdeep"
 description: "ESP32 Wroom (32E N8) Dev board with a good pin layout and is cool!"
 created_at: "2025-05-29"
 ---
-# Total time spent: 34h
+# Total time spent: 48h
 # May 30th: Finally decided on the features.
 Ok so as I was making an ESP32 dev board so I am thinking of just having it as a plain one and only making it as a very small and a board with a good pin layout.
 **Total time spent: 1h**
@@ -65,3 +65,13 @@ and here is the final 3D render:
 now here is what JLCPCB is costing me:
 ![JLCPCB Cost](./JLCPCB/Cart.png)
 **Total time spent: 8h**
+# June 22th: New design
+I got rejected again due to the capasitors being way too far from the ESP32 module and I did the PCB again here is what the pcb looks like now:
+![alt text](./Images/Final%20Final%20PCB.png)
+![alt text](./Images/Final%203D%20Render.png)
+its way small now 7.5cm x 3cm and now is JLCPCB price:
+![alt text](./JLCPCB/Details.png)
+the board costs 84.80 with no coupons and no shipping. Here is the final cost with shipping and coupons:
+![alt text](./JLCPCB/Cart.png)
+$77.93 with shipping and done im gonna submit it now hopefully it gets approved this time.
+**Total time spent: 10h**
